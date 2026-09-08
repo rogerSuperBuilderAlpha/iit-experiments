@@ -46,6 +46,27 @@ cut removed either a duplicate mention or an unverified elaboration, not a uniqu
 remain worth the author's institutional access for a strength pass: Manky (2025), Sundar & Nass
 (2000), and Sundar & Kim (2019) — full citations in the two research files above.
 
+**Third pass, same day:** the author supplied PDFs for Sundar & Nass (2000) and Sundar & Kim (2019),
+resolving both remaining HMC gaps in full — see the cards and
+`literature/HMC_EXPERIMENTAL_DESIGNS_2026-09-08.md` §1 for exact N, design, and statistics. The
+verification caught a real error: line 65 had mischaracterized Sundar & Nass (2000) as one four-way
+design; it is two studies, and two of the four "conditions" the old text named never existed. Fixed.
+A third supplied PDF (Arriagada et al., 2026) confirmed a corroboration of Manky's general claim
+already on file since 2026-08-19 — Manky's specific passenger-vetting mechanism is still unverified
+and still worth the author's institutional access.
+
+A follow-on research pass (`literature/HMC_CANDIDATE_SOURCES_2026-09-08.md`) then found five papers to
+deepen the HMC hearing, all Crossref- and full-text-verified after the author supplied PDFs for each:
+Daryanto et al. (2026), Khadpe et al. (2025), Wenker (2023), Zhu & Molnar (2026), and Muniz & Santos
+(2026). All five are now integrated — Daryanto et al. replaces the agenda-only Seeber et al. mention in
+"Machines Among Groups" with a data-bearing result; Khadpe et al., Wenker, and Zhu & Molnar extend the
+AI-Mediated Communication paragraph's suspicion/attribution lineage with a mechanism, a workplace
+field study, and a real-world base rate, and fix line 77's "suspected" to the verified "perceived";
+Muniz and Santos (2026) — full text confirms it argues at the institutional level, not the individual-
+capacity level, so it strengthens rather than threatens the paper's claim — joins the demarcation
+paragraph as the closest recent theoretical near-miss. Net this pass: +436 words, 94 references. The
+paper is no shorter for it — the author's own call this round was to deepen HMC rather than cut it.
+
 **Cut on 2026-09-01 to a ~10,200-word body** (16,600 words with abstract, 99 references, and
 appendices) from the 18,100-word body of the 30–31 August v4 draft, on the author's instruction: all
 eight hearings kept but compressed (Human–Machine Communication held at ~1,850 words), the construct
