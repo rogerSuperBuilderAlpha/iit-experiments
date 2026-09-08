@@ -29,6 +29,23 @@ Proposition 1 to Study 3). See `reviews/fable_panel_2026-09-08_cuts/SYNTHESIS.md
 and `reviews/fable_panel_2026-09-02_cut/SYNTHESIS.md` for the fix ledger this round applied.
 Pre-edit text archived at `archive/2026-09-08_PAPER_pre-rewrite.md`.
 
+**Second pass, same day:** two research runs — `literature/HMC_EXPERIMENTAL_DESIGNS_2026-09-08.md`
+(a methods audit of the nine studies behind the Human–Machine Communication hearing, verdict: length
+earned, not padded) and `literature/REDUCIBILITY_ASSESSMENT_2026-09-08.md` (a reducibility check on
+the other seven hearings against citation depth and field canonicity) — surfaced five passages leaning
+on sources that were either unread past the abstract or never independently verified, three of them
+citations used nowhere else in the paper. Rather than spend the two remaining days chasing those
+sources, the dependent text was cut: the Ng et al. (2021) AI-literacy synthesis clause, the Jarrahi &
+Sutherland (2019) gig-literacies lineage clause, Jung/Martelaro/Hinds (2015) from the HMC hearing (all
+three now-orphaned references removed), the CMC-competence hearing's grounding-theory elaboration
+compressed to its citation (Clark & Brennan, 1991 — the fuller mechanism already lives in the
+construct section's derivation at what is now line ~164), and the synthesis section's second mention
+of the folk-theories trio (DeVito et al., 2018; Litt, 2012) trimmed to a back-reference, since both are
+still cited in full in the Introduction. Net: −263 words, 89 references, zero argument loss — every
+cut removed either a duplicate mention or an unverified elaboration, not a unique claim. Three papers
+remain worth the author's institutional access for a strength pass: Manky (2025), Sundar & Nass
+(2000), and Sundar & Kim (2019) — full citations in the two research files above.
+
 **Cut on 2026-09-01 to a ~10,200-word body** (16,600 words with abstract, 99 references, and
 appendices) from the 18,100-word body of the 30–31 August v4 draft, on the author's instruction: all
 eight hearings kept but compressed (Human–Machine Communication held at ~1,850 words), the construct
