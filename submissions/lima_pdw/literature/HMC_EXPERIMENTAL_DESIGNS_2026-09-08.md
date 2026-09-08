@@ -17,25 +17,40 @@ Review article, not a single experiment; no new data. The card's account (mindle
 CASA's decade of findings) is accurate and sufficient. No fetch needed.
 
 ### Sundar & Nass (2000) — source orientation
-**Not independently verified this round — blocked.** SAGE returned HTTP 403 on both the DOI redirect
-and the direct journals.sagepub.com URL; academia.edu and ResearchGate mirrors are not fetchable
-without login. Web search confirms the design shape without numbers: two studies, both manipulating
-who the participant is told authored identical computer output (Study 1: computer vs. the programmer
-behind it; Study 2: a constructive replication substituting a "networker" for the programmer), and
-both find source attribution changes evaluation of identical content — consistent with the card. No N,
-no F/p values, no effect size could be confirmed from any accessible source. **This is the paper's
-single most load-bearing citation** (line 65: "the experimental ground for the first operation") and
-currently carries zero verified quantitative detail anywhere in the project's literature apparatus —
-the card itself already flags this ("cite for the construct, not for effect sizes"), so the gap is
-long-standing, not new. See §5.
+**Verified in full, 2026-09-08**, against a user-supplied PDF of the version of record (SAGE's own 403
+gate is now moot). The design is two studies, not a single four-way manipulation as PAPER.md line 65
+previously implied: **Study 1** (*N* = 30, mixed 2×2: Computer-vs-Programmer label between-subjects,
+Praise-vs-Criticism round within-subjects) found the Computer label rated significantly friendlier
+(*M* = 3.43 vs. 2.35, *F*(1,28) = 9.43, *p* < .01), more playful (*F*(1,28) = 7.0, *p* < .05), more
+effective (*F*(1,28) = 4.76, *p* < .05), and more stylistically similar (*F*(1,28) = 6.78, *p* < .05)
+than the identical content under the Programmer label; a MANOVA on all four combined was significant,
+*F* = 41.33, *p* < .001. **Study 2** (*N* = 22, between-subjects) replaced "programmer" with
+"networker" — a live human tutor reached through the network, in another room, staged with a phone
+call to confirm presence — and replicated the friendliness and playfulness effects (*t*(20) = 3.47 and
+3.46, both *p* < .01) with effectiveness only marginal and style similarity not significant, plus one
+reversal: participants reported *greater excitement* with the Networker/Tutor than with the Computer
+(*t*(20) = 2.64, *p* < .05). **PAPER.md line 65 has been corrected** — the prior text described a
+single design with four simultaneous source labels including "the network it drew on" and "another
+person using it," neither of which exists in the actual studies (the correct second label is a *live
+tutor reached through the network*, not the network itself as a source); the sentence now names the
+two-study, two-N design and states only the friendliness/playfulness effects that replicated across
+both. Card updated at `cards/sundar2000.md` with full stats. **No longer a papers-to-source item.**
 
 ### Sundar & Kim (2019) — machine heuristic
-**Not independently verified this round — blocked.** ACM DL returned 403 on both the DOI redirect and
-the fullHtml mirror; a third-party PDF mirror (library.usc.edu.ph) refused the connection. Web search
-(unverified against the primary text) surfaces a plausible N=160 and an airline-reservation
-credit-card-disclosure task, with disclosure difference concentrated among participants who already
-scored high on machine-heuristic endorsement — but this figure comes from a search-engine summary, not
-a direct read, and should not be cited without confirmation. See §5.
+**Verified in full, 2026-09-08**, against a user-supplied PDF of the version of record. Scenario-based
+between-subjects experiment, *N* = 160 (MTurk, US residents), an identical airline-booking chat
+transcript ending in a credit-card request, attributed to a human sales rep or to Siri. H1 (machine
+cue raises disclosure intention) supported: *F*(1,121) = 8.72, *p* < .001, partial η² = .07 (LSM 4.67
+vs. 3.63 on a 7-point scale). Belief in the machine heuristic (validated 5-item scale, α = .87) had a
+significant main effect, *F*(1,121) = 17.1, *p* < .0001, partial η² = .12, and moderated the machine-cue
+effect (H2, the paper's central claim): *F*(1,121) = 6.34, *p* < .05, partial η² = .05 — the advantage
+concentrates among participants who already endorsed the heuristic. Results held controlling for
+dispositional trust, privacy concern, and power-usership; a rival "authority heuristic" explanation
+(Siri as an Apple product) was tested and ruled out (both proposed mediators *p* > .79). This confirms
+the N=160/credit-card figure the prior round could only attribute to an unverified search-engine
+summary, and adds the exact effect sizes PAPER.md line 67 does not currently cite (line 67 states the
+concept only, no numbers, so no correction needed there — but the numbers are now available if a
+future draft wants them). Card updated at `cards/sundar2019.md`. **No longer a papers-to-source item.**
 
 ### Hohenstein & Jung (2020) — "moral crumple zone"
 **Verified in full** via `hohenstein.infosci.cornell.edu/files/AI_crumpleZone.pdf` (author-hosted,
@@ -190,21 +205,19 @@ sentences that are each the only place a specific finding's nuance lives.
 
 ## 5. Papers to source
 
-The author should pull these directly (institutional access will clear the 403s this round hit):
+**Update, 2026-09-08, second pass:** the author supplied PDFs of both top-priority items below; both
+are now verified in full (§1 above) and their cards updated. Jung, Martelaro & Hinds (2015) was cut
+from the paper entirely in this session's citation-reduction pass (it was used for one sentence, no
+statistics claimed, and had no card past a paraphrase) — no longer cited, so no longer worth pursuing.
+What remains:
 
-1. **Sundar, S. S., & Nass, C. (2000). Source orientation in human-computer interaction.**
-   *Communication Research*, 27(6), 683–703. SAGE. **Highest priority** — this is the hearing's single
-   most load-bearing citation (line 65) and the project's literature apparatus has never held a
-   verified N, condition detail beyond the card's paraphrase, or a single statistic from it. A
-   university library SAGE Journals login should retrieve it directly.
-2. **Sundar, S. S., & Kim, J. (2019). Machine heuristic.** CHI 2019. ACM DL. Needed to confirm or
-   correct the unverified N=160 figure found via search, and to get the mediation statistics referenced
-   in the card's "relation to the argument" section.
-3. **Jung, M. F., Martelaro, N., & Hinds, P. J. (2015). Using robots to moderate team conflict.**
-   ACM/IEEE HRI 2015. ACM DL. Lower priority than the two above — the paper's use of this study is
-   already appropriately light (one sentence, no statistics claimed) — but worth a read if the author
-   wants to strengthen rather than merely preserve this citation.
+1. ~~Sundar, S. S., & Nass, C. (2000).~~ **Verified 2026-09-08** — user-supplied PDF, full stats now in
+   `cards/sundar2000.md` and §1 above. PAPER.md line 65 corrected to match the actual two-study design.
+2. ~~Sundar, S. S., & Kim, J. (2019).~~ **Verified 2026-09-08** — user-supplied PDF, full stats now in
+   `cards/sundar2019.md` and §1 above.
+3. ~~Jung, M. F., Martelaro, N., & Hinds, P. J. (2015).~~ **Moot** — no longer cited in the paper.
 4. If the exact published-version numbers matter for a direct quote, **re-confirm Hohenstein et al.'s
    figures against the *Scientific Reports* 13:5487 version of record**, not the 2021 arXiv preprint
    used here — Nature's access gate blocked every route tried this round, but the two should not differ
-   materially given the abstract's n=1036 matches on both versions.
+   materially given the abstract's n=1036 matches on both versions. Low priority; the arXiv preprint is
+   an accepted evidence tier for a workshop paper.
