@@ -10,6 +10,25 @@ The accepted title:
 > Algorithmacy: A communication competency construct for triadic mediated coordination, with
 > empirical evidence from a Caribbean AI engineering cohort
 
+**Revised on 2026-09-08 to a ~10,950-word body** (16,340 words total, 92 references) in one pass
+applying both the 2 September and 8 September Fable panels: the "unseen counterpart" contradiction
+(2 Sept item 1) is rewritten in place — opacity of consequence, not visibility, with a fourth scope
+condition stating it directly — the measurement model, retuning disclosure, RQ4, and nomological-
+network fixes (2 Sept items 2–11, 13) are applied, roughly 550–650 words of connective tissue that
+panel priced are restored, and the 8 Sept panel's Band 1 cuts (42 items) plus three of its four
+zero-cost structural moves (conditions before Table 1; definition restated at the construct section's
+head; Semantic Relations moved after the derivation) are applied against the restoration. Nine
+references dropped as orphaned (Jakesch, Pratt 2009, Dennis, Merton, Eisenhardt & Graebner, ILO,
+Chigbu, Bamberger & Pratt, Bothello); two added (DeVito, 2021; Hong et al., 2026), both verified
+against `literature/cards/`. Net: the body is tighter and the contradiction is fixed, but it is not
+shorter than the 1 September cut — the restoration this round funded costs slightly more than the new
+cuts recovered. Deferred: the fourth structural move (relocating the CMC-competence hearing's triadic-
+referent sentences), the Table B1 recursive-process row, and everything the two panels flagged as the
+author's own call (the ninth-candidate literature check, the Simmel/Johnson-Burt label, assigning
+Proposition 1 to Study 3). See `reviews/fable_panel_2026-09-08_cuts/SYNTHESIS.md` for the cut ledger
+and `reviews/fable_panel_2026-09-02_cut/SYNTHESIS.md` for the fix ledger this round applied.
+Pre-edit text archived at `archive/2026-09-08_PAPER_pre-rewrite.md`.
+
 **Cut on 2026-09-01 to a ~10,200-word body** (16,600 words with abstract, 99 references, and
 appendices) from the 18,100-word body of the 30–31 August v4 draft, on the author's instruction: all
 eight hearings kept but compressed (Human–Machine Communication held at ~1,850 words), the construct
@@ -75,7 +94,8 @@ the historical record and should not be restated as current.
 |---|---|
 | [`manuscript/PAPER.md`](manuscript/PAPER.md) | **The live paper**, rewritten 2026-08-29 from `OUTLINE.md`'s v3 architecture. Body revisable; the v2 lock on abstract/introduction no longer holds (see above) |
 | [`manuscript/OUTLINE.md`](manuscript/OUTLINE.md) | **The live architecture** — v3, the 29 August round, built against the six-reviewer Fable panel. Per-section Job statements, repairs tagged to specific reviewer findings, prose diagnostics, reference-list deltas |
-| [`reviews/fable_panel_2026-08-29_gdoc_merged/`](reviews/fable_panel_2026-08-29_gdoc_merged/) | **Current review round.** Six full independent reviews (org theory, comm studies, methodology, hostile Reviewer 2, copyeditor, non-specialist) plus `SYNTHESIS.md`, the cross-cutting brief `OUTLINE.md` v3 was built from |
+| [`reviews/fable_panel_2026-09-02_cut/`](reviews/fable_panel_2026-09-02_cut/) | **Current review round** — five content lenses (org theory, communication studies, methodology, hostile Reviewer 2, non-specialist; no copyeditor) run against the 1 September cut, plus `SYNTHESIS.md` ranking fourteen cross-cutting findings by convergence with a consolidated ~600-word restoration table. Verdicts: four minor/minor-to-moderate, one major (the "unseen counterpart" contradiction with the site's public peer reviews) |
+| [`reviews/fable_panel_2026-08-29_gdoc_merged/`](reviews/fable_panel_2026-08-29_gdoc_merged/) | Prior review round. Six full independent reviews (org theory, comm studies, methodology, hostile Reviewer 2, copyeditor, non-specialist) plus `SYNTHESIS.md`, the cross-cutting brief `OUTLINE.md` v3 was built from |
 | [`manuscript/INTRODUCTION.md`](manuscript/INTRODUCTION.md) | Historical — the abstract/introduction as locked before the 26 August rebuild. No longer binding |
 | [`manuscript/LOCK.md`](manuscript/LOCK.md) | Historical — the lock's original terms. Superseded twice over (26 August, then 29 August) |
 | [`manuscript/MODEL_PAPER_COMPARISON.md`](manuscript/MODEL_PAPER_COMPARISON.md) | Verified structural-template search: Suddaby/Whetten's construct-clarity criteria, Petriglieri (2011) and Räcker et al. (2024) as candidate models. The Option A/B decision it left open is now settled: Option B (keep the current architecture), reflected in `OUTLINE.md` v3 |
